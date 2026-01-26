@@ -1,1 +1,2 @@
-# income-tracker-privacy-policy
+# 収益ノートアプリ
+プライバシーポリシーを管理
